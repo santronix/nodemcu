@@ -1,22 +1,11 @@
-/**************************************************************************
- This is an example for our Monochrome OLEDs based on SSD1306 drivers
-
- Pick one up today in the adafruit shop!
- ------> http://www.adafruit.com/category/63_98
-
- This example is for a 128x64 pixel display using SPI to communicate
- 4 or 5 pins are required to interface.
-
- Adafruit invests time and resources providing this open
- source code, please support Adafruit and open-source
- hardware by purchasing products from Adafruit!
-
- Written by Limor Fried/Ladyada for Adafruit Industries,
- with contributions from the open source community.
- BSD license, check license.txt for more information
- All text above, and the splash screen below must be
- included in any redistribution.
- **************************************************************************/
+/*******************************************************
+ * SANTRONIX <info@santronix.in>
+ * 
+ * This file is part of SANTRONIX Particle Photon IoT Tutorials.
+ * 
+ * SANTRONIX Particle Photon Tutorials Project can not be copied and/or distributed without the express
+ * permission of SANTRONIX
+ *******************************************************/
 
 #include <SPI.h>
 #include <Wire.h>
